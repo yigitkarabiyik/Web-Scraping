@@ -23,7 +23,7 @@ git clone https://...
 docker-compose up -d --build
 docker-compose exec backend python manage.py migrate
 docker-compose exec backend python manage.py makemigrations
-docker-compose exec backend python manage.py runserver 0.0.0.0:8000
+docker-compose exec backend python manage.py runserver
 ```
 
 ### Regular

@@ -1,4 +1,4 @@
-# OXO TASK
+# Web Scraping
 
 This project has last 10 APK distribution of Instagram without beta and alpha versions includes release date, varyant informations which are varyant id, architecture, minimum android version and DPI. The s
 
